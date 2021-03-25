@@ -1,0 +1,14 @@
+T.C. Gençlik ve Spor Bakanlığı Kredi ve Yurtlar Genel Müdürlüğü (KYK) yurt başvuruları 26 Ağustos'ta sona eriyor. Başvurular e-Devlet üzerinden Gençlik ve Spor Bakanlığı sayfasından gerçekleştiriliyor.                    
+(Kutupluk: 0.05000000000000002 Öznellik: 0.5)
+19 Ağustos’ta başlayan KYK yurt başvuruları “Dijital Türkiye” kapsamında internet ortamında hiçbir evrak hazırlamadan ve bir yere gitmeden kolayca yapılabiliyor.  Üniversitemize ya da her hangi bir üniversiteye yerleşen öğrenciler e-Devlet şifreleri ile başvuru işlemlerini anında yapabiliyor.                    
+(Kutupluk: 0.06166666666666667 Öznellik: 0.395)
+Başvuru için detaylı bilgiye https://www.turkiye.gov.tr/kyk-yurt-basvurusu adresinden ulaşabilirsiniz.                    
+(Kutupluk: 0.4 Öznellik: 0.75)
+Değerli Mensuplarımız,                    
+(Kutupluk: 0.0 Öznellik: 0.0)
+Atatürk Kültür, Dil ve Tarih Yüksek Kurumu Atatürk Kültür Merkezi Başkanlığı tarafından “Arış Dergisi” makale kabulüne başladığı tarafımıza bildirilmiştir.                    
+(Kutupluk: 0.0 Öznellik: 0.1)
+Detaylı bilgiye http://www.akmb.gov.tr/Menu.aspx?AltMenuId=13 internet adresinden ulaşabilirsiniz.                    
+(Kutupluk: 0.4 Öznellik: 0.75)
+Bilgilerinize sunarız.                    
+(Kutupluk: 0.0 Öznellik: 0.0)
